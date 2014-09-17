@@ -20,4 +20,4 @@ Usage
 
 Generate a new project::
 
-    cookiecutter https://github.com/cng-thg/cookiecutter-git-boilerplate.git
+    cookiecutter https://github.com/yesops/cookiecutter-git-boilerplate.git
